@@ -1,1 +1,1 @@
-# Parameter-Optimized-MACD-Trading-Strategies-for-Stock-Backtesting-Performance
+#  MACD Trading Strategies Performance with Parameter Optimization
